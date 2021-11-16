@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tag> Eerste HTML opdracht </tag>
+        <title> Opdracht door Michelle </title>
+    </head>
+    <body>
+       <h1> Hoofdstuk 1 </h1>
+       <hr>
+       <h2> Opdracht 1 </h2>
+      <hr>
+      <p> Paragraaf 1 </p>
+       
+    </body>
+</html>
